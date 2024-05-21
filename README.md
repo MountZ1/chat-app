@@ -1,14 +1,19 @@
-<h1 class="hasatu">Chatting App</h1>
-<hr>
-<ul>
-  <li>chat-back : Server app write with go</li>
-  <li>chat-front : Front end app using NextJS</li>
-</ul>
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          display: flex;
+          width: 100%;
+          height: 300px;
+          background-color: black;
+          color: white;
+        }
+      </style>
 
-<img width="926" alt="Login Page" src="https://github.com/MountZ1/chat-app/assets/119827998/cdff61d9-7894-418c-be13-e3705844d1c9">
-
-<style>
-  .hasatu{
-    color: #3808f7;.
-  }
-</style>
+      <div class="container">
+        <h1>Hi there, my name is Nikola 👋</h1>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
