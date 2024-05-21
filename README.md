@@ -1,19 +1,19 @@
-<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        .container {
-          display: flex;
-          width: 100%;
-          height: 300px;
-          background-color: black;
-          color: white;
-        }
-      </style>
-
-      <div class="container">
-        <h1>Hi there, my name is Nikola 👋</h1>
-      </div>
-    </div>
-  </foreignObject>
-</svg>
+<h1 class="hasatu">Chatting App</h1>
+<hr>
+<ul>
+   <li>chat-back : Server app write with go</li>
+   <li>chat-front : Front end app using NextJS</li>
+</ul>
+<br>
+<div>
+<p>Need to be Update : </p>
+  <ul>
+    <li>Update user profile picture</li>
+    <li>Create new conversations when click friend button</li>
+    <li>Friend request</li>
+    <li>Several bug in ui especialy in mobile device</li>
+  </ul>
+</div>
+<img width="926" alt="Login Page" align="center" src="https://github.com/MountZ1/chat-app/assets/119827998/cdff61d9-7894-418c-be13-e3705844d1c9">
+<img width="931" alt="Create Account" align="center" src="https://github.com/MountZ1/chat-app/assets/119827998/3a1d4057-507b-4210-af09-350d4e87deb9">
+<img width="920" alt="main" align="center" src="https://github.com/MountZ1/chat-app/assets/119827998/ac2849b9-fcc5-4bbc-bd80-d727eec2733d">
